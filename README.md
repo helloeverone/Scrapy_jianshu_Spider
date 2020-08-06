@@ -1,2 +1,4 @@
 # Scrapy_jianshu_Spider
-简书文章信息自动爬取
+
+scrapy爬虫框架，使用selenium等工具自动无限爬取
+简书文章信息并实时存入数据库中
